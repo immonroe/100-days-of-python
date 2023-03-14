@@ -8,7 +8,7 @@ Starting from : March 8, 2023
 </h5>
 
 <p align="center">
-I <a href="file:///home/manny/Downloads/Course+Pledge+-+App+Brewery+100+Days+of+Python.pdf">pledge</a> to complete this 100 days of coding challenge.
+I <a href="file:///home/manny/Downloads/Course+Pledge+-+App+Brewery+100+Days+of+Python1024_1.jpg">pledge</a> to complete this 100 days of coding challenge.
 </p>
 
 ## Contents
@@ -197,11 +197,11 @@ I <a href="file:///home/manny/Downloads/Course+Pledge+-+App+Brewery+100+Days+of+
 
 - <b>Day 92</b> - [Professional Portfolio Project - (Web Scraping)](tbd)
 
-<p align="center">
+<!-- <p align="center">
 Last Updated : March 29, 2022
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
 Please ⭐ this repository if you loved it !
 <br>
 < Happy Coding />
@@ -209,4 +209,4 @@ Please ⭐ this repository if you loved it !
 <b>Ashutosh Krishna<b>
 <br>
 <a href="https://ashutoshkrris.netlify.com">Portfolio</a> | <a href="https://github.com/ashutoshkrris">Github</a> | <a href="https://ashutoshkrris.medium.com">Medium</a>
-</p>
+</p> -->
