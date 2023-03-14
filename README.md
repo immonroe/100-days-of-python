@@ -8,9 +8,10 @@ Starting from : March 8, 2023
 </h5>
 
 <p align="center">
-I <a href="file:///home/manny/Downloads/Course+Pledge+-+App+Brewery+100+Days+of+Python1024_1.jpg">pledge</a> to complete this 100 days of coding challenge - [link to course](https://www.udemy.com/course/100-days-of-code/)
+I <a href="file:///home/manny/Downloads/Course+Pledge+-+App+Brewery+100+Days+of+Python1024_1.jpg">pledge</a> to complete this 100 days of coding challenge.
+<br>
+link to course - https://www.udemy.com/course/100-days-of-code/
 </p>
-<p>[This is a test](https://www.google.com)</p>
 
 ## Contents
 
