@@ -1,14 +1,18 @@
+# Write a program that switches the values stored in the variables a and b.
+
 # 🚨 Don't change the code below 👇
 a = input("a: ")
 b = input("b: ")
 # 🚨 Don't change the code above 👆
 
 ####################################
-#First *fork* your copy. Then copy-paste your code below this line 👇
-#Finally click "Run" to execute the tests
+#Write your code below this line 👇
 
-a,b = b,a
+c = a
+d = b
 
+b = a
+a = d
 
 #Write your code above this line 👆
 ####################################

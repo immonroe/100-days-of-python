@@ -1,3 +1,5 @@
+#Go to: https://replit.com/@appbrewery/band-name-generator-start?v=1
+
 #1. Create a greeting for your program.
 print('Welcome to the super-mega-awesome-totally-original-band-name-generator!')
 #2. Ask the user for the city that they grew up in.
