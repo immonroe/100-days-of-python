@@ -23,7 +23,7 @@ link to course - https://www.udemy.com/course/100-days-of-code/
 
 - <b>Day 4</b> - [Randomisation and Python Lists](https://github.com/immonroe/100-days-of-python/tree/main/day-4)
 
-- <b>Day 5</b> - [Python Loops](tbd)
+- <b>Day 5</b> - [Python Loops](https://github.com/immonroe/100-days-of-python/tree/main/day-5)
 
 - <b>Day 6</b> - [Python Functions & Karel](tbd)
 
