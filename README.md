@@ -25,7 +25,7 @@ link to course - https://www.udemy.com/course/100-days-of-code/
 
 - <b>Day 5</b> - [Python Loops](https://github.com/immonroe/100-days-of-python/tree/main/day-5)
 
-- <b>Day 6</b> - [Python Functions & Karel](tbd)
+- <b>Day 6</b> - [Python Functions & Karel](https://github.com/immonroe/100-days-of-python/tree/main/day-6)
 
 - <b>Day 7</b> - [Hangman](tbd)
 
