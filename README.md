@@ -27,7 +27,7 @@ link to course - https://www.udemy.com/course/100-days-of-code/
 
 - <b>Day 6</b> - [Python Functions & Karel](https://github.com/immonroe/100-days-of-python/tree/main/day-6)
 
-- <b>Day 7</b> - [Hangman](tbd)
+- <b>Day 7</b> - [Hangman](https://github.com/immonroe/100-days-of-python/tree/main/day-7)
 
 - <b>Day 8</b> - [Function Parameters & Caesar Cipher](tbd)
 
